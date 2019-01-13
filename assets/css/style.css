@@ -14,6 +14,8 @@ body {
 
 .content {
     flex: 1 0 auto;
+    text-align: center;
+    margin: 0 5%;
 
 }
 
@@ -49,11 +51,29 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    line-height: 1.8em;
+    line-height: 1em;
+}
+
+
+#crystals {
+    width: 70%;
+    margin: 0 auto;
+    
 }
 
 .crystal:hover {
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
 
+}
+
+footer {
+    text-align: center;
+    background-color: #848484;
+    padding: 5px 0 1px 0;
+    color: white;
+    font-size: small;
+    /* margin-bottom: 0; */
+    border-top: 8px solid #4aaaa5;
+    flex-shrink: 0;
 }
