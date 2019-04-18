@@ -22,3 +22,6 @@ Here's how the app works:
      * When the game begins again, the player sees a new random number. Also, all the crystals will have four new hidden values. Of course, the user's score (and score counter) will reset to zero.
 
    * The app also shows the number of games the player wins and loses.
+
+
+Visit the game here: https://tochwat.github.io/unit-4-game/
